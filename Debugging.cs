@@ -1,8 +1,8 @@
 ﻿/***********************************************************************************************
  * Übungsnr:        11                                     
  * Programmname:    SelectArrayElement
- * Autor:           Michael Bucek  
- * Klasse:          1CHIF
+ * Autor:           karlof002  
+ * Klasse:          1BHIF
  * Datum:           25.11.2013                               
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
